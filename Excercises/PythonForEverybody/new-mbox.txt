@@ -1,0 +1,9 @@
+From zqian@umich.edu Fri Jan  4 16:10:39 2008
+Return-Path: <postmaster@collab.sakaiproject.org>
+Received: from murder (mail.umich.edu [141.211.14.25])
+	 by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+	 Fri, 04 Jan 2008 16:10:39 -0500
+X-Sieve: CMU Sieve 2.3
+Received: from murder ([unix socket])
+	 by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+	 Fri, 04 Jan 2008 16:10:39 -0500
